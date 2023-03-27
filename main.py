@@ -1,5 +1,9 @@
 import requests
 import json
+import environ
+
+env = environ.Env()
+environ.Env.read_env()
 
 
 # API endpoint URL
@@ -12,7 +16,7 @@ data = {
 }
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer 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"
+    "Authorization": f"Bearer {env('API_KEY')}"
 }
 
 with open('questions.json', 'r') as file:
