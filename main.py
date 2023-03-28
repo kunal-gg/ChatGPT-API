@@ -1,27 +1,26 @@
 import requests
 import json
-import environ
+import openpyxl
 
-env = environ.Env()
-environ.Env.read_env()
-
+workbook = openpyxl.Workbook();
+worksheet = workbook.active;
+result = [
+    ['Question', 'Answer']
+]
 
 # API endpoint URL
 url = "https://api.openai.com/v1/chat/completions"
 
-# API request parameters
-data = {
-  "model": "gpt-3.5-turbo",
-  "messages": [{"role": "user", "content": "What is the value of 2 + 2?"}]
-}
+
 headers = {
     "Content-Type": "application/json",
-    "Authorization": f"Bearer {env('API_KEY')}"
+    "Authorization": f"Bearer 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"
 }
 
 with open('questions.json', 'r') as file:
     # Load the JSON data from the file
     questions = json.load(file)
+
 
 
 
@@ -33,11 +32,17 @@ for question in questions["Questions"]:
     response = requests.post(url, data=json.dumps(data), headers=headers)
     if response.status_code == 200:
         response_json = json.loads(response.text)
-        print(response_json['choices'][0]['message']['content'])
+        answer = response_json['choices'][0]['message']['content']
+        result.append([question["question"], answer])
+        print(answer)
 
     else:
-        print("API request failed with status code:", response.status_code)
+        print("API request failed with status code:", response.json())
 
 
 
+for row in result:
+    worksheet.append(row)
+
+workbook.save("result.xlsx")
 
