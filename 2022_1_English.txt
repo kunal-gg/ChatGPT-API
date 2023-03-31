@@ -1,0 +1,1374 @@
+Mathematics
+
+JEE (Advanced) 2022
+
+Paper 1
+
+SECTION 1 (Maximum Marks: 24)
+This section contains EIGHT (08) questions.
+The answer to each question is a NUMERICAL VALUE.
+For each question, enter the correct numerical value of the answer using the mouse and the on­screen
+virtual numeric keypad in the place designated to enter the answer. If the numerical value has more
+than two decimal places, truncate/round­off the value to TWO decimal places.
+• Answer to each question will be evaluated according to the following marking scheme:
+Full Marks
+: +3 ONLY if the correct numerical value is entered;
+Zero Marks
+: 0 In all other cases.
+•
+•
+•
+
+Q.1
+
+Considering only the principal values of the inverse trigonometric functions, the value of
+1
+2√2 π
+3
+2
+√2
+cos −1 √
++ sin−1
++ tan−1
+2
+2
+4
+π
+2+π
+2
+2+π
+is __________ .
+
+Q.2
+
+Let 𝛼 be a positive real number. Let 𝑓: ℝ → ℝ and 𝑔: (𝛼, ∞) → ℝ be the functions defined by
+𝑓(𝑥) = sin (
+
+𝜋𝑥
+)
+12
+
+and
+
+𝑔(𝑥) =
+
+2 log e ( √𝑥 − √𝛼 )
+log e ( 𝑒 √𝑥 − 𝑒 √𝛼 )
+
+.
+
+Then the value of lim+ 𝑓(𝑔(𝑥)) is __________.
+𝑥→𝛼
+
+Q.3
+
+In a study about a pandemic, data of 900 persons was collected. It was found that
+190 persons had symptom of fever,
+220 persons had symptom of cough,
+220 persons had symptom of breathing problem,
+330 persons had symptom of fever or cough or both,
+350 persons had symptom of cough or breathing problem or both,
+340 persons had symptom of fever or breathing problem or both,
+30 persons had all three symptoms (fever, cough and breathing problem).
+If a person is chosen randomly from these 900 persons, then the probability that the person has at
+most one symptom is _____________.
+
+1/9
+
+JEE (Advanced) 2022
+
+Q.4
+
+Paper 1
+
+Let 𝑧 be a complex number with non-zero imaginary part. If
+2 + 3𝑧 + 4𝑧 2
+2 − 3𝑧 + 4𝑧 2
+is a real number, then the value of |𝑧|2 is _____________.
+
+Q.5
+
+Let 𝑧̅ denote the complex conjugate of a complex number 𝑧 and let 𝑖 = √−1 . In the set of complex
+numbers, the number of distinct roots of the equation
+𝑧̅ − 𝑧 2 = 𝑖(𝑧̅ + 𝑧 2 )
+is _____________.
+
+Q.6
+
+Let 𝑙1 , 𝑙2 , … , 𝑙100 be consecutive terms of an arithmetic progression with common difference 𝑑1 , and
+let 𝑤1 , 𝑤2 , … , 𝑤100 be consecutive terms of another arithmetic progression with common difference
+𝑑2 , where 𝑑1 𝑑2 = 10. For each 𝑖 = 1, 2, … , 100, let 𝑅𝑖 be a rectangle with length 𝑙𝑖 , width 𝑤𝑖 and
+area 𝐴𝑖 . If 𝐴51 − 𝐴50 = 1000, then the value of 𝐴100 − 𝐴90 is ____________.
+
+Q.7
+
+The number of 4-digit integers in the closed interval [2022, 4482] formed by using the digits
+0, 2, 3, 4, 6, 7 is ____________.
+
+Q.8
+
+Let 𝐴𝐵𝐶 be the triangle with 𝐴𝐵 = 1, 𝐴𝐶 = 3 and ∠𝐵𝐴𝐶 = . If a circle of radius 𝑟 > 0 touches
+2
+
+π
+
+the sides 𝐴𝐵, 𝐴𝐶 and also touches internally the circumcircle of the triangle 𝐴𝐵𝐶, then the value
+of 𝑟 is _____________.
+
+2/9
+
+JEE (Advanced) 2022
+
+Q.10
+
+Q.11
+
+Paper 1
+
+Let 𝑎1 , 𝑎2 , 𝑎3 , … be an arithmetic progression with 𝑎1 = 7 and common difference 8. Let
+𝑇1 , 𝑇2 , 𝑇3 , … be such that 𝑇1 = 3 and 𝑇𝑛+1 − 𝑇𝑛 = 𝑎𝑛 for 𝑛 ≥ 1. Then, which of the following is/are
+TRUE ?
+
+(A) 𝑇20 = 1604
+
+(B) ∑20
+𝑘=1 𝑇𝑘 = 10510
+
+(C) 𝑇30 = 3454
+
+(D) ∑30
+𝑘=1 𝑇𝑘 = 35610
+
+Let 𝑃1 and 𝑃2 be two planes given by
+
+𝑃1 : 10𝑥 + 15𝑦 + 12𝑧 − 60 = 0 ,
+𝑃2 : − 2𝑥 + 5𝑦 + 4𝑧 − 20 = 0 .
+Which of the following straight lines can be an edge of some tetrahedron whose two faces lie on 𝑃1
+and 𝑃2 ?
+(A)
+(B)
+(C)
+(D)
+
+Q.12
+
+𝑥−1
+0
+𝑥−6
+−5
+𝑥
+−2
+𝑥
+1
+
+=
+
+=
+
+=
+
+𝑦−1
+
+=
+
+=
+
+0
+𝑦
+2
+
+=
+
+𝑦−4
+5
+
+𝑦−4
+−2
+
+5
+
+𝑧
+3
+
+=
+
+=
+
+𝑧−1
+
+𝑧
+4
+
+𝑧
+3
+
+Let 𝑆 be the reflection of a point 𝑄 with respect to the plane given by
+𝑟⃗ = −(𝑡 + 𝑝)𝑖̂ + 𝑡𝑗̂ + (1 + 𝑝)𝑘̂
+where 𝑡, 𝑝 are real parameters and 𝑖̂, 𝑗̂, 𝑘̂ are the unit vectors along the three positive coordinate
+axes. If the position vectors of 𝑄 and 𝑆 are 10𝑖̂ + 15𝑗̂ + 20𝑘̂ and 𝛼𝑖̂ + 𝛽𝑗̂ + 𝛾𝑘̂ respectively, then
+which of the following is/are TRUE ?
+(A) 3(𝛼 + 𝛽) = −101
+(B) 3(𝛽 + 𝛾) = −71
+(C) 3(𝛾 + 𝛼) = −86
+(D) 3(𝛼 + 𝛽 + 𝛾) = −121
+
+4/9
+
+JEE (Advanced) 2022
+
+Q.13
+
+Q.14
+
+Paper 1
+
+Consider the parabola 𝑦 2 = 4𝑥. Let 𝑆 be the focus of the parabola. A pair of tangents drawn to the
+parabola from the point 𝑃 = (−2, 1) meet the parabola at 𝑃1 and 𝑃2 . Let 𝑄1 and 𝑄2 be points on the
+lines 𝑆𝑃1 and 𝑆𝑃2 respectively such that 𝑃𝑄1 is perpendicular to 𝑆𝑃1 and 𝑃𝑄2 is perpendicular to
+𝑆𝑃2 . Then, which of the following is/are TRUE ?
+
+(A)
+
+𝑆𝑄1 = 2
+
+(B)
+
+𝑄1 𝑄2 =
+
+(C)
+
+𝑃𝑄1 = 3
+
+(D)
+
+𝑆𝑄2 = 1
+
+3√10
+5
+
+𝜋
+
+Let |𝑀| denote the determinant of a square matrix 𝑀. Let 𝑔: [0, ] → ℝ be the function defined by
+2
+𝜋
+𝑔(𝜃) = √𝑓(𝜃) − 1 + √𝑓 ( − 𝜃) − 1
+2
+where
+1
+1
+𝑓(θ) = 2 |− sin 𝜃
+−1
+
+sin 𝜃
+1
+−sin 𝜃
+
+sin 𝜋
+1
+𝜋
+sin 𝜃 | + || sin (𝜃 − 4 )
+1
+𝜋
+cot (𝜃 + 4 )
+
+𝜋
+4
+𝜋
+− cos 2
+𝜋
+log 𝑒 ( 4 )
+
+cos (𝜃 + )
+
+𝜋
+4
+
+tan (𝜃 − )
+4
+
+log 𝑒 (𝜋)
+
+|.
+|
+
+tan 𝜋
+
+Let 𝑝(𝑥) be a quadratic polynomial whose roots are the maximum and minimum values of the
+function 𝑔(𝜃), and 𝑝(2) = 2 − √2 . Then, which of the following is/are TRUE ?
+
+3+√2
+)<0
+4
+
+(A) 𝑝 (
+
+(B) 𝑝 (
+
+1+3√2
+)>0
+4
+
+(C) 𝑝 (
+
+5√2−1
+)>0
+4
+
+5−√2
+)<0
+4
+
+(D) 𝑝 (
+
+5/9
+
+JEE (Advanced) 2022
+
+•
+•
+•
+•
+•
+•
+
+Paper 1
+
+SECTION 3 (Maximum Marks: 12)
+This section contains FOUR (04) Matching List Sets.
+Each set has ONE Multiple Choice Question.
+Each set has TWO lists: List­I and List­II.
+List­I has Four entries (I), (II), (III) and (IV) and List­II has Five entries (P), (Q), (R), (S) and (T).
+FOUR options are given in each Multiple Choice Question based on List­I and List­II and ONLY ONE of
+these four options satisfies the condition asked in the Multiple Choice Question.
+Answer to each question will be evaluated according to the following marking scheme:
+Full Marks
+: +3 ONLY if the option corresponding to the correct combination is chosen;
+Zero Marks
+: 0 If none of the options is chosen (i.e. the question is unanswered);
+Negative Marks : −1 In all other cases.
+Q.15
+
+Consider the following lists:
+List-I
+
+List-II
+
+2𝜋 2𝜋
+
+(P) has two elements
+
+5𝜋 5𝜋
+
+(Q) has three elements
+
+(III) {𝑥 ∈ [−
+
+6𝜋 6𝜋
+, ]: 2 cos(2𝑥) = √3}
+5 5
+
+(R) has four elements
+
+(IV) {𝑥 ∈ [−
+
+7𝜋 7𝜋
+, ]: sin 𝑥 − cos 𝑥 = 1}
+4 4
+
+(S) has five elements
+
+(I) {𝑥 ∈ [− 3 , 3 ]: cos 𝑥 + sin 𝑥 = 1}
+(II) {𝑥 ∈ [− 18 , 18 ]: √3 tan 3𝑥 = 1}
+
+(T) has six elements
+The correct option is:
+(A) (I) → (P); (II) → (S); (III) → (P); (IV) → (S)
+(B) (I) → (P); (II) → (P); (III) → (T); (IV) → (R)
+(C) (I) → (Q); (II) → (P); (III) → (T); (IV) → (S)
+(D) (I) → (Q); (II) → (S); (III) → (P); (IV) → (R)
+
+6/9
+
+JEE (Advanced) 2022
+
+Q.16
+
+Paper 1
+
+Two players, 𝑃1 and 𝑃2 , play a game against each other. In every round of the game, each player rolls
+a fair die once, where the six faces of the die have six distinct numbers. Let 𝑥 and 𝑦 denote the
+readings on the die rolled by 𝑃1 and 𝑃2 , respectively. If 𝑥 > 𝑦, then 𝑃1 scores 5 points and 𝑃2 scores
+0 point. If 𝑥 = 𝑦, then each player scores 2 points. If 𝑥 < 𝑦, then 𝑃1 scores 0 point and 𝑃2 scores 5
+points. Let 𝑋𝑖 and 𝑌𝑖 be the total scores of 𝑃1 and 𝑃2 , respectively, after playing the 𝑖 𝑡ℎ round.
+List-I
+
+List-II
+
+(I) Probability of (𝑋2 ≥ 𝑌2 ) is
+
+(P)
+
+3
+8
+
+(II) Probability of (𝑋2 > 𝑌2 ) is
+
+(Q)
+
+11
+16
+
+(III) Probability of (𝑋3 = 𝑌3 ) is
+
+(R)
+
+5
+16
+
+(IV) Probability of (𝑋3 > 𝑌3 ) is
+
+(S) 864
+
+355
+
+77
+
+(T) 432
+The correct option is:
+(A) (I) → (Q); (II) → (R); (III) → (T); (IV) → (S)
+(B) (I) → (Q); (II) → (R); (III) → (T); (IV) → (T)
+(C) (I) → (P); (II) → (R); (III) → (Q); (IV) → (S)
+(D) (I) → (P); (II) → (R); (III) → (Q); (IV) → (T)
+
+7/9
+
+JEE (Advanced) 2022
+
+Q.17
+
+Paper 1
+
+Let 𝑝, 𝑞, 𝑟 be nonzero real numbers that are, respectively, the 10𝑡ℎ , 100𝑡ℎ and 1000𝑡ℎ terms of a
+harmonic progression. Consider the system of linear equations
+
+𝑥+𝑦+𝑧 =1
+10𝑥 + 100𝑦 + 1000𝑧 = 0
+𝑞𝑟 𝑥 + 𝑝𝑟 𝑦 + 𝑝𝑞 𝑧 = 0 .
+
+List-I
+(I) If
+
+𝑞
+= 10, then the system of linear
+𝑟
+
+List-II
+(P) 𝑥 = 0, 𝑦 =
+
+10
+1
+, 𝑧 = − 9 as a solution
+9
+
+equations has
+(II) If
+
+𝑝
+≠ 100, then the system of linear
+𝑟
+
+(Q) 𝑥 =
+
+10
+,
+9
+
+1
+
+𝑦 = − 9 , 𝑧 = 0 as a solution
+
+equations has
+(III) If
+
+𝑝
+≠ 10, then the system of linear
+𝑞
+
+(R) infinitely many solutions
+
+equations has
+(IV) If
+
+𝑝
+= 10, then the system of linear
+𝑞
+
+(S) no solution
+
+equations has
+(T) at least one solution
+The correct option is:
+
+(A) (I) → (T); (II) → (R); (III) → (S); (IV) → (T)
+(B) (I) → (Q); (II) → (S); (III) → (S); (IV) → (R)
+(C) (I) → (Q); (II) → (R); (III) → (P); (IV) → (R)
+(D) (I) → (T); (II) → (S); (III) → (P); (IV) → (T)
+
+8/9
+
+JEE (Advanced) 2022
+
+Q.18
+
+Paper 1
+
+Consider the ellipse
+𝑥2 𝑦2
++
+=1.
+4
+3
+Let 𝐻(𝛼, 0), 0 < 𝛼 < 2, be a point. A straight line drawn through 𝐻 parallel to the 𝑦-axis crosses
+the ellipse and its auxiliary circle at points 𝐸 and 𝐹 respectively, in the first quadrant. The tangent to
+the ellipse at the point 𝐸 intersects the positive 𝑥-axis at a point 𝐺. Suppose the straight line joining
+𝐹 and the origin makes an angle 𝜙 with the positive 𝑥-axis.
+List-I
+(I) If 𝜙 =
+
+List-II
+
+𝜋
+, then the area of the triangle 𝐹𝐺𝐻 is
+4
+𝜋
+
+(II) If 𝜙 = 3 , then the area of the triangle 𝐹𝐺𝐻 is
+
+(P)
+
+(R)
+
+𝜋
+
+(IV) If 𝜙 = 12 , then the area of the triangle 𝐹𝐺𝐻 is
+
+4
+
+8
+
+(Q) 1
+
+𝜋
+
+(III) If 𝜙 = 6 , then the area of the triangle 𝐹𝐺𝐻 is
+
+(√3−1)
+
+(S)
+(T)
+
+3
+4
+1
+2√3
+3√3
+2
+
+The correct option is:
+
+(A)
+
+(I) → (R); (II) → (S); (III) → (Q); (IV) → (P)
+
+(B)
+
+(I) → (R); (II) → (T); (III) → (S); (IV) → (P)
+
+(C)
+
+(I) → (Q); (II) → (T); (III) → (S); (IV) → (P)
+
+(D)
+
+(I) → (Q); (II) → (S); (III) → (Q); (IV) → (P)
+
+END OF THE QUESTION PAPER
+
+9/9
+
+Physics
+EIGHT (08)
+
+JEE (Advanced) 2022
+
+Q.5
+
+Paper 1
+
+At time 𝑡 = 0, a disk of radius 1 m starts to roll without slipping on a horizontal plane with an
+angular acceleration of 𝛼 = 𝑟𝑎𝑑 𝑠 . A small stone is stuck to the disk. At 𝑡 = 0, it is at the
+contact point of the disk and the plane. Later, at time 𝑡 = √𝜋 𝑠, the stone detaches itself and flies
+off tangentially from the disk. The maximum height (in m) reached by the stone measured from the
+plane is + . The value of x is _____. [Take 𝑔 = 10 𝑚 𝑠 .]
+
+Q.6
+
+A solid sphere of mass 1 kg and radius 1 m rolls without slipping on a fixed inclined plane with an
+angle of inclination 𝜃 = 30° from the horizontal. Two forces of magnitude 1 N each, parallel to the
+incline, act on the sphere, both at distance 𝑟 = 0.5 m from the center of the sphere, as shown in the
+figure. The acceleration of the sphere down the plane is ____ 𝑚𝑠 . (Take 𝑔 = 10 𝑚 𝑠 .)
+
+Q.7
+
+Consider an LC circuit, with inductance 𝐿 = 0.1 𝐻 and capacitance 𝐶 = 10 𝐹, kept on a plane.
+The area of the circuit is 1 𝑚 . It is placed in a constant magnetic field of strength 𝐵 which is
+perpendicular to the plane of the circuit. At time 𝑡 = 0, the magnetic field strength starts
+increasing linearly as 𝐵 = 𝐵 + 𝛽𝑡 with 𝛽 = 0.04 𝑇𝑠 . The maximum magnitude of the
+current in the circuit is _____ mA.
+
+Q.8
+
+A projectile is fired from horizontal ground with speed 𝑣 and projection angle 𝜃. When the
+acceleration due to gravity is 𝑔, the range of the projectile is 𝑑. If at the highest point in its
+trajectory, the projectile enters a different region where the effective acceleration due to gravity is
+𝑔 =
+, then the new range is 𝑑 = 𝑛𝑑. The value of n is _____.
+.
+
+2/12
+
+JEE (Advanced) 2022
+
+Q.9
+
+Paper 1
+
+A medium having dielectric constant K >1 fills the space between the plates of a parallel plate
+capacitor. The plates have large area, and the distance between them is d. The capacitor is
+connected to a battery of voltage V, as shown in Figure (a). Now, both the plates are moved by a
+distance of from their original positions, as shown in Figure (b).
+
+d
+
+V
+Figure (a)
+
+d
+
+𝑑
+2
+
+𝑑
+2
+
+V
+Figure (b)
+
+In the process of going from the configuration depicted in Figure (a) to that in Figure (b), which of
+the following statement(s) is(are) correct?
+(A) The electric field inside the dielectric material is reduced by a factor of 2𝐾.
+(B) The capacitance is decreased by a factor of
+.
+(C) The voltage between the capacitor plates is increased by a factor of (𝐾 + 1).
+(D) The work done in the process DOES NOT depend on the presence of the dielectric material.
+
+4/12
+
+JEE (Advanced) 2022
+
+Q.10
+
+Paper 1
+
+The figure shows a circuit having eight resistances of 1 Ω each, labelled 𝑅 to 𝑅 , and two ideal
+batteries with voltages ℰ = 12 𝑉 and ℰ = 6 𝑉.
+
+𝑅
+𝑅
+
+𝑅
+
+ℰ
+
+ℰ
+
+𝑅
+
+𝑅
+
+𝑅
+
+𝑅
+
+𝑅
+
+Which of the following statement(s) is(are) correct?
+(A) The magnitude of current flowing through 𝑅 is 7.2 A.
+(B) The magnitude of current flowing through 𝑅 is 1.2 A.
+(C) The magnitude of current flowing through 𝑅 is 4.8 A.
+(D) The magnitude of current flowing through 𝑅 is 2.4 A.
+
+5/12
+
+JEE (Advanced) 2022
+
+Q.11
+
+Paper 1
+
+An ideal gas of density 𝜌 = 0.2 𝑘𝑔 𝑚 enters a chimney of height ℎ at the rate of 𝛼 =
+0.8 𝑘𝑔 𝑠 from its lower end, and escapes through the upper end as shown in the figure. The
+cross-sectional area of the lower end is 𝐴 = 0.1 𝑚 and the upper end is 𝐴 = 0.4 𝑚 . The
+pressure and the temperature of the gas at the lower end are 600 𝑃𝑎 and 300 𝐾, respectively,
+while its temperature at the upper end is 150 𝐾. The chimney is heat insulated so that the gas
+undergoes adiabatic expansion. Take 𝑔 = 10 𝑚 𝑠 and the ratio of specific heats of the gas
+𝛾 = 2. Ignore atmospheric pressure.
+
+Which of the following statement(s) is(are) correct?
+(A) The pressure of the gas at the upper end of the chimney is 300 𝑃𝑎.
+(B) The velocity of the gas at the lower end of the chimney is 40 𝑚 𝑠 and at the upper end is
+20 𝑚 𝑠 .
+(C) The height of the chimney is 590 𝑚.
+(D) The density of the gas at the upper end is 0.05 𝑘𝑔 𝑚 .
+
+Q.12
+
+Three plane mirrors form an equilateral triangle with each side of length 𝐿. There is a small
+hole at a distance 𝑙 > 0 from one of the corners as shown in the figure. A ray of light is passed
+through the hole at an angle 𝜃 and can only come out through the same hole. The cross
+section of the mirror configuration and the ray of light lie on the same plane.
+
+Which of the following statement(s) is(are) correct?
+(A) The ray of light will come out for 𝜃 = 30∘ , for 0 < 𝑙 < 𝐿.
+(B) There is an angle for 𝑙 = at which the ray of light will come out after two reflections.
+(C) The ray of light will NEVER come out for 𝜃 = 60∘ , and 𝑙 = .
+(D) The ray of light will come out for 𝜃 = 60∘ , and 0 < 𝑙 <
+
+after six reflections.
+6/12
+
+JEE (Advanced) 2022
+
+Q.13
+
+Paper 1
+
+Six charges are placed around a regular hexagon of side length 𝑎 as shown in the figure. Five
+of them have charge 𝑞, and the remaining one has charge 𝑥. The perpendicular from each
+charge to the nearest hexagon side passes through the center O of the hexagon and is bisected
+by the side.
+
+Which of the following statement(s) is(are) correct in SI units?
+(A) When 𝑥 = 𝑞, the magnitude of the electric field at O is zero.
+(B) When 𝑥 = −𝑞, the magnitude of the electric field at O is
+(C) When 𝑥 = 2𝑞, the potential at O is
+
+Q.14
+
+.
+
+√
+
+(D) When 𝑥 = −3𝑞, the potential at O is −
+
+.
+
+√
+
+.
+
+The binding energy of nucleons in a nucleus can be affected by the pairwise Coulomb repulsion.
+Assume that all nucleons are uniformly distributed inside the nucleus. Let the binding energy of a
+proton be 𝐸 and the binding energy of a neutron be 𝐸 in the nucleus.
+Which of the following statement(s) is(are) correct?
+(A) 𝐸 − 𝐸 is proportional to 𝑍(𝑍 − 1) where Z is the atomic number of the nucleus.
+(B) 𝐸 − 𝐸 is proportional to 𝐴 where A is the mass number of the nucleus.
+(C) 𝐸 − 𝐸 is positive.
+(D) 𝐸 increases if the nucleus undergoes a beta decay emitting a positron.
+
+7/12
+
+FOUR (04)
+
+JEE (Advanced) 2022
+
+Q.16
+
+Paper 1
+
+List I describes four systems, each with two particles A and B in relative motion as shown in
+figures. List II gives possible magnitudes of their relative velocities (in 𝑚 𝑠 ) at time 𝑡 = 𝑠.
+List-I
+(I) A and B are moving on a horizontal circle of radius 1 𝑚 with
+uniform angular speed 𝜔 = 1 𝑟𝑎𝑑 𝑠 . The initial angular positions of
+A and B at time 𝑡 = 0 are 𝜃 = 0 and 𝜃 = , respectively.
+
+List-II
+(P)
+
+√
+
+(II) Projectiles A and B are fired (in the same vertical plane) at 𝑡 = 0
+and 𝑡 = 0.1 𝑠 respectively, with the same speed 𝑣 =
+𝑚 𝑠 and at
+
+(Q)
+
+√
+√
+
+√
+
+45° from the horizontal plane. The initial separation between A and B
+is large enough so that they do not collide. (𝑔 = 10 𝑚 𝑠 ).
+
+𝑡 = 0.1𝑠
+
+𝑡=0
+
+45°
+
+45°
+
+𝐵
+
+𝐴
+
+(III) Two harmonic oscillators A and B moving in the x direction
+according to 𝑥 = 𝑥 sin
+and 𝑥 = 𝑥 sin
++
+respectively,
+starting from 𝑡 = 0. Take 𝑥 = 1 𝑚, 𝑡 = 1 𝑠.
+
+𝐵
+
+𝑡 𝜋
+𝑥 = 𝑥 𝑠𝑖𝑛 ( + )
+𝑡
+2
+
+𝑥
+𝑥 = 𝑥 𝑠𝑖𝑛
+
+𝐴
+
+(R) √10
+
+𝑡
+𝑡
+
+(IV) Particle A is rotating in a horizontal circular path of radius 1 𝑚 on
+the xy plane, with constant angular speed 𝜔 = 1 𝑟𝑎𝑑 s . Particle B is
+moving up at a constant speed 3 𝑚 𝑠 in the vertical direction as
+shown in the figure. (Ignore gravity.)
+𝑧
+
+3𝑚𝑠
+𝐴
+
+𝐵
+
+(S) √2
+
+𝑦
+𝑥
+(T) √25𝜋 + 1
+
+Which one of the following options is correct?
+(A) I  R, II  T, III  P, IV  S
+(B) I  S, II  P, III  Q, IV  R
+(C) I  S, II  T, III  P, IV  R
+(D) I  T, II  P, III  R, IV  S
+9/12
+
+JEE (Advanced) 2022
+
+Q.17
+
+Paper 1
+
+List I describes thermodynamic processes in four different systems. List II gives the magnitudes
+(either exactly or as a close approximation) of possible changes in the internal energy of the system
+due to the process.
+List-I
+
+List-II
+
+(I) 10 kg of water at 100°𝐶 is converted to steam at the
+same temperature, at a pressure of 10 𝑃𝑎. The volume of
+the system changes from 10 𝑚 to 10 𝑚 in the
+process. Latent heat of water = 2250 kJ/kg.
+
+(P) 2 kJ
+
+(II) 0.2 moles of a rigid diatomic ideal gas with volume V
+at temperature 500 K undergoes an isobaric expansion to
+volume 3 V. Assume 𝑅 = 8.0 𝐽 𝑚𝑜𝑙 𝐾 .
+
+(Q) 7 kJ
+
+(III) One mole of a monatomic ideal gas is compressed
+adiabatically from volume 𝑉 = 𝑚 and pressure 2 kPa
+
+(R) 4 kJ
+
+to volume .
+(IV) Three moles of a diatomic ideal gas whose molecules
+can vibrate, is given 9 kJ of heat and undergoes isobaric
+expansion.
+
+(S) 5 kJ
+(T) 3 kJ
+
+Which one of the following options is correct?
+(A) I  T, II  R, III  S, IV  Q,
+(B) I  S, II  P, III  T, IV  P,
+(C) I  P, II  R, III  T, IV  Q.
+(D) I  Q, II  R, III  S, IV  T,
+
+10/12
+
+JEE (Advanced) 2022
+
+Q.18
+
+Paper 1
+
+List I contains four combinations of two lenses (1 and 2) whose focal lengths (in cm) are indicated
+in the figures. In all cases, the object is placed 20 cm from the first lens on the left, and the distance
+between the two lenses is 5 cm. List II contains the positions of the final images.
+List-I
+(I)
+
+f = +10
+
+List-II
+
++15
+
+(P) Final image is formed at 7.5 cm on the
+right side of lens 2.
+
+O
+1 5 cm 2
+
+20 cm
+
+−10
+
+f = +10
+(II)
+
+O
+1 5 cm 2
+
+20 cm
+
+(III)
+
+(Q) Final image is formed at 60.0 cm on the
+right side of lens 2.
+
+f = +10
+
+−20
+
+(R) Final image is formed at 30.0 cm on the
+left side of lens 2.
+
+(S) Final image is formed at 6.0 cm on the
+right side of lens 2.
+
+O
+20 cm
+
+1
+
+5 cm 2
+
+(IV)
+f = −20
+
++10
+
+O
+20 cm
+
+1 5 cm 2
+
+(T) Final image is formed at 30.0 cm on the
+right side of lens 2.
+
+Which one of the following options is correct?
+(A) (I)  P; (II)  R; (III)  Q; (IV)  T
+(B) (I)  Q; (II)  P; (III)  T; (IV)  S
+(C) (I)  P; (II)  T; (III)  R; (IV)  Q
+(D) (I)  T; (II)  S; (III)  Q; (IV)  R
+
+11/12
+
+JEE (Advanced) 2022
+
+Paper 1
+
+END OF THE QUESTION PAPER
+
+12/12
+
+Chemistry
+
+JEE (Advanced) 2022
+
+Paper 1
+
+SECTION 1 (Maximum Marks: 24)
+This section contains EIGHT (08) questions.
+The answer to each question is a NUMERICAL VALUE.
+For each question, enter the correct numerical value of the answer using the mouse and the on­screen
+virtual numeric keypad in the place designated to enter the answer. If the numerical value has more
+than two decimal places, truncate/round­off the value to TWO decimal places.
+• Answer to each question will be evaluated according to the following marking scheme:
+Full Marks
+: +3 ONLY if the correct numerical value is entered;
+Zero Marks
+: 0 In all other cases.
+•
+•
+•
+
+Q.1
+
+2 mol of Hg(g) is combusted in a fixed volume bomb calorimeter with excess of O2 at 298 K and
+1 atm into HgO(s). During the reaction, temperature increases from 298.0 K to 312.8 K. If heat
+capacity of the bomb calorimeter and enthalpy of formation of Hg(g) are 20.00 kJ K - 1 and 61.32 kJ
+mol - 1 at 298 K, respectively, the calculated standard molar enthalpy of formation of HgO(s) at 298
+K is X kJ mol - 1. The value of |X| is _______.
+[Given: Gas constant R = 8.3 J K - 1 mol - 1]
+
+Q.2
+
+The reduction potential (E0, in V) of MnO−
+4 (aq)/Mn(s) is ______.
+0
+0
+0
+[Given: 𝐸(MnO
+– (aq)/MnO (s)) = 1.68 V; 𝐸(MnO (s)/Mn2+ (aq)) = 1.21 V; 𝐸(Mn2+ (aq)/Mn(s)) = –1.03 V ]
+2
+4
+
+2
+
+1/10
+
+JEE (Advanced) 2022
+
+Q.3
+
+Paper 1
+
+A solution is prepared by mixing 0.01 mol each of H2CO3, NaHCO3, Na2CO3, and NaOH in
+100 mL of water. pH of the resulting solution is _______.
+[Given: pKa1 and pKa2 of H2CO3 are 6.37 and 10.32, respectively; log 2 = 0.30]
+
+Q.4
+
+The treatment of an aqueous solution of 3.74 g of Cu(NO3 )2 with excess KI results in a brown
+solution along with the formation of a precipitate. Passing H2S through this brown solution gives
+another precipitate X. The amount of X (in g) is ________.
+[Given: Atomic mass of H = 1, N = 14, O = 16, S = 32, K = 39, Cu = 63, I = 127]
+
+Q.5
+
+Dissolving 1.24 g of white phosphorous in boiling NaOH solution in an inert atmosphere gives a
+gas Q. The amount of CuSO4 (in g) required to completely consume the gas Q is _______.
+[Given: Atomic mass of H = 1, O = 16, Na = 23, P = 31, S = 32, Cu = 63]
+
+2/10
+
+JEE (Advanced) 2022
+
+Q.6
+
+Paper 1
+
+Consider the following reaction.
+
+On estimation of bromine in 1.00 g of R using Carius method, the amount of AgBr formed (in g) is
+________.
+[Given: Atomic mass of H = 1, C = 12, O = 16, P = 31, Br = 80, Ag = 108]
+
+Q.7
+
+The weight percentage of hydrogen in Q, formed in the following reaction sequence, is ________.
+
+[Given: Atomic mass of H = 1, C = 12, N = 14, O = 16, S = 32, Cl = 35]
+
+Q.8
+
+If the reaction sequence given below is carried out with 15 moles of acetylene, the amount of the
+product D formed (in g) is ________.
+
+The yields of A, B, C and D are given in parentheses.
+[Given: Atomic mass of H = 1, C = 12, O = 16, Cl = 35]
+
+3/10
+
+JEE (Advanced) 2022
+
+Q.11
+
+Paper 1
+
+The electrochemical extraction of aluminum from bauxite ore involves
+(A) the reaction of Al2O3 with coke (C) at a temperature > 2500 ºC.
+(B) the neutralization of aluminate solution by passing CO2 gas to precipitate hydrated alumina
+(Al2O3·3H2O).
+(C) the dissolution of Al2O3 in hot aqueous NaOH.
+(D) the electrolysis of Al2O3 mixed with Na3AlF6 to give Al and CO2.
+
+Q.12
+
+The treatment of galena with HNO3 produces a gas that is
+(A) paramagnetic
+(C) an acidic oxide
+
+Q.13
+
+(B) bent in geometry
+(D) colorless
+
+Considering the reaction sequence given below, the correct statement(s) is(are)
+
+(A) P can be reduced to a primary alcohol using NaBH4.
+(B) Treating P with conc. NH4OH solution followed by acidification gives Q.
+(C) Treating Q with a solution of NaNO2 in aq. HCl liberates N2.
+(D) P is more acidic than CH3CH2COOH.
+
+5/10
+
+JEE (Advanced) 2022
+
+Q.14
+
+Paper 1
+
+Considering the following reaction sequence,
+
+the correct option(s) is(are)
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+6/10
+
+JEE (Advanced) 2022
+
+•
+•
+•
+•
+•
+•
+
+Paper 1
+
+SECTION 3 (Maximum Marks: 12)
+This section contains FOUR (04) Matching List Sets.
+Each set has ONE Multiple Choice Question.
+Each set has TWO lists: List­I and List­II.
+List­I has Four entries (I), (II), (III) and (IV) and List­II has Five entries (P), (Q), (R), (S) and (T).
+FOUR options are given in each Multiple Choice Question based on List­I and List­II and ONLY ONE of
+these four options satisfies the condition asked in the Multiple Choice Question.
+Answer to each question will be evaluated according to the following marking scheme:
+Full Marks
+: +3 ONLY if the option corresponding to the correct combination is chosen;
+Zero Marks
+: 0 If none of the options is chosen (i.e. the question is unanswered);
+Negative Marks : −1 In all other cases.
+
+7/10
+
+JEE (Advanced) 2022
+
+Q.15
+
+Paper 1
+
+Match the rate expressions in LIST-I for the decomposition of X with the corresponding profiles
+provided in LIST-II. Xs and k are constants having appropriate units.
+
+LIST-I
+(I)
+
+rate =
+
+LIST-II
+(P)
+
+k[X]
+X s +[X]
+
+under all possible initial concentrations of X
+
+(II)
+
+(Q)
+
+k[X]
+rate =
+X s +[X]
+where initial concentrations of X are
+much less than X s
+
+(R)
+
+(III)
+
+k[X]
+rate =
+X s +[X]
+where initial concentrations of X are
+much higher than X s
+(S)
+
+(IV)
+2
+
+rate =
+
+k[X]
+X s +[X]
+
+where initial concentration of X is
+much higher than Xs
+(T)
+
+(A) I→ P; II→ Q; III → S; IV → T
+(B) I→ R; II→ S; III → S; IV → T
+(C) I→ P; II→ Q; III → Q; IV → R
+(D) I→ R; II→ S; III → Q; IV → R
+
+8/10
+
+JEE (Advanced) 2022
+
+Q.16
+
+Paper 1
+
+LIST-I contains compounds and LIST-II contains reactions
+LIST-I
+
+LIST-II
+(P) Mg(HCO3)2 + Ca(OH)2 →
+(Q) BaO2 + H2SO4 →
+
+(I) H2O2
+(II) Mg(OH)2
+
+(R) Ca(OH)2 + MgCl2 →
+
+(III) BaCl2
+(IV) CaCO3
+
+(S) BaO2 + HCl →
+(T) Ca(HCO3)2 + Ca(OH)2 →
+
+Match each compound in LIST-I with its formation reaction(s) in LIST-II, and choose the correct
+option
+(A) I → Q; II → P; III → S; IV → R
+(B) I → T; II → P; III → Q; IV → R
+(C) I → T; II → R; III → Q; IV → P
+(D) I → Q; II → R; III → S; IV → P
+
+Q.17
+
+LIST-I contains metal species and LIST-II contains their properties.
+LIST-I
+(I) [Cr(CN)6]
+(II) [RuCl6]
+
+LIST-II
+(P) t2g orbitals contain 4 electrons
+
+4–
+
+2–
+
+(III) [Cr(H2O)6]
+
+(Q) µ(spin-only) = 4.9 BM
+2+
+
+(R) low spin complex ion
+
+2+
+
+(S) metal ion in 4+ oxidation state
+
+(IV) [Fe(H2O)6]
+
+4
+
+(T) d species
+[Given: Atomic number of Cr = 24, Ru = 44, Fe = 26]
+Match each metal species in LIST-I with their properties in LIST-II, and choose the correct option
+(A) I → R, T; II → P, S; III → Q, T; IV → P, Q
+(B) I → R, S; II → P, T; III → P, Q; IV → Q, T
+(C) I → P, R; II → R, S; III → R, T; IV → P, T
+(D) I → Q, T; II → S, T; III → P, T; IV → Q, R
+
+9/10
+
+JEE (Advanced) 2022
+
+Q.18
+
+Paper 1
+
+Match the compounds in LIST-I with the observations in LIST-II, and choose the correct option.
+
+LIST-I
+(I) Aniline
+
+LIST-II
+(P) Sodium fusion extract of the compound on
+boiling with FeSO4, followed by
+acidification with conc. H2SO4, gives
+Prussian blue color.
+
+(II) o-Cresol
+
+(Q) Sodium fusion extract of the compound on
+treatment with sodium nitroprusside gives
+blood red color.
+
+(III) Cysteine
+
+(R) Addition of the compound to a saturated
+solution of NaHCO3 results in
+effervescence.
+
+(IV) Caprolactam
+
+(S) The compound reacts with bromine water
+to give a white precipitate.
+(T) Treating the compound with neutral FeCl3
+solution produces violet color.
+
+(A) I→P,Q; II→S; III→Q,R; IV→P
+(B) I→P; II→R,S; III→R; IV→Q,S
+(C) I→Q,S; II→P,T; III→P; IV→S
+(D) I→P,S; II→T; III→Q,R; IV→P
+
+END OF THE QUESTION PAPER
+
+10/10
+
+
