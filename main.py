@@ -1,6 +1,13 @@
 import requests
 import json
 import openpyxl
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# the api key
+api_key = os.getenv("API_KEY")
 
 workbook = openpyxl.Workbook();
 worksheet = workbook.active;
@@ -14,7 +21,7 @@ url = "https://api.openai.com/v1/chat/completions"
 
 headers = {
     "Content-Type": "application/json",
-    "Authorization": f"Bearer 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"
+    "Authorization": f"Bearer {api_key}"
 }
 
 with open('questions.json', 'r') as file:
