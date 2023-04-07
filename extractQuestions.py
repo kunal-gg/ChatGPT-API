@@ -1,7 +1,7 @@
 import PyPDF2
 
 # Open the PDF file in read-binary mode
-pdf_file = open('design_credit.pdf', 'rb')
+pdf_file = open('./pdf-files/design_credit.pdf', 'rb')
 
 # Create a PDF reader object
 pdf_reader = PyPDF2.PdfReader(pdf_file)
@@ -13,7 +13,7 @@ page = pdf_reader.pages[0]
 text = page.extract_text()
 
 # Open a text file in write mode
-text_file = open('example.txt', 'w')
+text_file = open('./text-files/example.txt', 'w')
 
 # Write the extracted text to the text file
 text_file.write(text)
