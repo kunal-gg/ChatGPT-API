@@ -1,36 +1,477 @@
-Elements of Mechanical Engineering (2110006)
-Department of Mechanical Engineering
-Darshan Institute of Engineering & Technology Page1EME MCQ QUESTION BANK
-1.Work is considered positive when
-a) Work is done on the system b) work is done by the system
-c) both a and b d) none of the above
-2.A source of energy is known as renewable source
-a) Fossil fuel b) Solar
-c) CNG d) All of the above
-3.When driving and driven sh afts are at comparatively short distance apart & higher efficiency
-required, thetype of drive suitable is :
-a)Gear drive b) Belt drive
-c) friction drive d) chain drive
-4.The clutch ordinarily remains in disengaged condition when it is used for power
-transmission in:
-a) Automobile b) Machine tools
-c) Crane d) Elevator
-5.Which of the following type of centrifugal pump converts kinetic energy of pump
-into pressure energy:
-a) Foot valve b) Casing
-c) Suction pipe d) Impeller
-6.For earth moving machines, widely used engines are:
-a) Petrol engine b) Steam engine
-c) Diesel engine d) Gas engine
-7.The correct location of economizer is :
-a) Between furnace and preheater b) between airpreheater and chimney
-c) between forced draft fan and furnace d) near the superheater
-8.COMPRESSOR is a machine which is used to do
-a) lift liquid from low height to higher elevation b) To store liquid
-c) To compress gas. d) none of the above
-9.Which of the following energy is converted into electricity in a Hydo power plant
-a) Nuclear energy b) Potential Energy of water
-c)Thermal Energy d) all of the above
-10.Which of the following is a unit of Power.
-a) Joules b) Watt
-c) Meter d) kilogram
+GATE 2022 Aerospace Engineering (AE)  
+Page 10 of 42 
+ 
+ 
+ 
+Q.10 Equal sized circular regions are shaded in a square sheet of paper of 1 cm side 
+length.  Two cases, case M and case N, are considered as shown in the figures 
+below.  In the case M, four circles are shaded in the square sheet and in the case 
+N, nine circles are shaded in the square sheet as shown.   
+What is the ratio of the areas of unshaded regions of case M to that of case N?  
+ 
+             
+case M                         case N  
+(A) 2 : 3 
+(B) 1 : 1 
+(C) 3 : 2 
+(D) 2 : 1 
+ 
+ 
+ 
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 11 of 42 
+ 
+Q.11 – Q.35 Carry ONE mark Each 
+ 
+Q.11 The equation of the straight line representing the tangent to the curve 𝑦=𝑥ଶ at 
+the point (1,1) is  
+(A) 𝑦=2𝑥−2 
+(B) 𝑥=2𝑦−1 
+(C) 𝑦−1=2(𝑥−1) 
+(D) 𝑥−1=2(𝑦−1) 
+  
+ 
+Q.12 Let  𝚤̂,𝚥̂, and 𝑘෠ be the unit vectors in the x, y and z directions, respectively. If the 
+vector 𝚤̂+𝚥̂ is rotated about positive 𝑘෠ by 135o, one gets 
+(A) −𝚤̂ 
+(B) −𝚥̂ 
+(C) −1
+√2𝚥̂ 
+(D) −√2𝚤̂  
+  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 12 of 42 
+ 
+ 
+Q.13 Let 𝑥 be a real number and 𝑖=√−1. Then the real part of cos(𝑖𝑥) is 
+(A) sinh𝑥 
+(B) cosh𝑥 
+(C) cos𝑥  
+(D) sin𝑥 
+  
+ 
+ 
+Q.14 The point of maximum entropy on a Fanno-curve in a Temperature-Entropy (T-s) 
+diagram represents the 
+(A) maximum flow Mach number 
+(B) minimum flow Mach number 
+(C) sonic Mach number 
+(D) normal shock in the flow 
+  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 13 of 42 
+ 
+ 
+Q.15 Consider a two-dimensional potential flow over a cylinder. If the freestream speed 
+is 𝑈ஶ, the maximum speed on the cylinder surface is  
+(A) 𝑈ஶ
+2 
+(B) 3𝑈ஶ
+2 
+(C) 2𝑈ஶ 
+(D) 4𝑈ஶ
+3 
+  
+  GATE 2022 Aerospace Engineering (AE)  
+Page 14 of 42 
+ 
+ 
+Q.16 Consider steady, two-dimensional, incompressible flow over a non-porous flat 
+plate as shown in the figure. For the control volume PQRS, the speed, 𝑢ஶ, at 
+section PQ is uniform and the speed at section RS is given by 𝑢(𝑦)=𝐴଴ቀ௬
+௛ቁ௡
+, 
+where 𝑛 is a positive integer. The value of 𝐴଴ for which the flow through section 
+PS will vanish  is: 
+u0( )nyu y Ah   h
+ 
+(A) 𝑢ஶ
+𝑛+1 
+(B) 𝑢ஶ(𝑛+1) 
+(C) 𝑢ஶ
+𝑛−1 
+(D) 𝑢ஶ(𝑛−1) 
+  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 15 of 42 
+ 
+ 
+Q.17 Consider the velocity distribution, 𝑢(𝑦) shown in the figure. For two adjacent fluid 
+layers L1 and L2, the viscous force exerted by L1 on L2 is 
+ 
+(A) to the right 
+(B) to the left 
+(C) vertically upwards 
+(D) vertically downwards 
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 16 of 42 
+ 
+Q.18 The service ceiling of an airplane is the altitude  
+(A) at which maximum rate of climb is 100 m/min 
+(B) beyond which theoretically the airplane cannot sustain level flight 
+(C) at which maximum power is required for flight 
+(D) at which maximum rate of climb is 100 ft/min 
+  
+ 
+Q.19 Regarding the horizontal tail of a conventional airplane, which one of the 
+following statements is true? 
+(A) It contributes to 𝐶௠ഀ<0 
+(B) It makes 𝐶௠ഀ=0 
+(C) It makes 𝐶௠ഀ>0 
+(D) It makes 𝐶௠଴>0 and 𝐶௠ഀ>0 
+  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 17 of 42 
+ 
+ 
+Q.20 A beam with a symmetrical T-shaped cross-section, as shown in the figure, is 
+subjected to pure bending. The maximum magnitude of the normal stress is realised: 
+ 
+(A) only at the top fibres of the cross-section  
+(B) only at the bottom fibres of the cross-section 
+(C) both at the top and bottom fibres of the cross-section 
+(D) only at the centroidal fibres of the cross-section 
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 18 of 42 
+ 
+ 
+Q.21 A three-member truss is simply supported at Q and R, and loaded at P by a 
+horizontal force 𝐹 as shown. The force in QR is 
+ 
+(A) 0 
+(B) 𝐹 (tensile) 
+(C)  ி
+√ଶ   (compressive)       
+(D) √2𝐹  (tensile) 
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 19 of 42 
+ 
+ 
+Q.22 The closed thin-walled  rectangular channel shown in figure (i) is opened by 
+introducing a sharp cut at the center of the bottom edge, as shown in figure (ii). 
+Which one of the following statements is correct? 
+ 
+(A) Centroids of (i) and (ii) coincide while shear centers do not 
+(B) Shear centers of (i) and (ii) coincide while centroids do not 
+(C) Both centroids and shear centers of (i) and (ii) coincide 
+(D) Neither centroids nor shear centers of (i) and (ii) coincide 
+ 
+Q.23 The region of highest static temperature  in a rocket engine and the region of 
+highest heat flux  are ____________, respectively. 
+(A) nozzle throat and nozzle entry 
+(B) combustion chamber and nozzle throat 
+(C) nozzle exit and nozzle throat 
+(D) nozzle throat and combustion chamber 
+  
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 20 of 42 
+ 
+ 
+Q.24 If 𝑎ො,𝑏෠,𝑐̂  are three mutually perpendicular unit vectors, then 𝑎ො⋅൫ 𝑏෠×𝑐̂൯ can take 
+the value(s) 
+(A) 0 
+(B) 1 
+(C) -1 
+(D) ∞ 
+  
+ 
+ 
+Q.25 Across an oblique shock wave in a calorifically perfect gas, 
+(A) the stagnation enthalpy changes 
+(B) the stagnation entropy changes 
+(C) the stagnation temperature changes 
+(D) the speed of sound changes 
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 21 of 42 
+ 
+ 
+Q.26 NACA 2412 airfoil has 
+(A) 4% maximum camber with respect to chord 
+(B) maximum camber at 40% chord 
+(C) 12% maximum thickness to chord ratio 
+(D) maximum camber at 20% chord 
+ 
+ 
+Q.27 For International Standard Atmosphere (ISA) up to 11 km, which of the following 
+statement(s) is/are true?  
+(A) The hydrostatic/ aerostatic equation is used  
+(B) The temperature lapse rate is taken as −10ିଶ 𝐾/𝑚 
+(C) The sea level conditions are taken as: pressure, 𝑝௦=1.01325×10ହ𝑃𝑎; 
+temperature, 𝑇௦=300 𝐾; density, 𝜌௦=1.225 𝑘𝑔/𝑚ଷ 
+(D) Air is treated as a perfect gas  
+  
+ 
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 22 of 42 
+ 
+ 
+Q.28 Let 𝜎 and 𝜏 represent the normal stress and shear stress on a plane, respectively. 
+The Mohr circle(s) that may possibly represent the state of stress at points in a beam 
+of rectangular cross-section under pure bending  is/are: 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 23 of 42 
+ 
+ 
+Q.29 An isotropic linear elastic material point under plane strain condition in the x-y 
+plane always obeys: 
+(A) out-of-plane normal strain, 𝜖௭௭=0 
+(B) out-of-plane normal stress, 𝜎௭௭=0 
+(C) out-of-plane shear stress, 𝜏௫௭=0 
+(D) out-of-plane shear strain, 𝛾௫௭=0 
+  
+ 
+ 
+Q.30 A high-pressure-ratio multistage axial compressor encounters an extreme loading 
+mismatch during starting. Which of the following technique(s) can be used to 
+alleviate this problem? 
+(A) Blade cooling 
+(B) Variable angle stator vanes 
+(C) Blow-off valves 
+(D) Multi-spool shaft 
+  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 24 of 42 
+ 
+ 
+Q.31 The arc length of the parametric curve:  𝑥=cos𝜃,𝑦=sin𝜃,𝑧=𝜃 from 𝜃=0 
+to 𝜃=2𝜋 is equal to ________ (round off to one decimal place). 
+  
+ 
+ 
+Q.32 An unpowered glider is flying at a glide angle of 10 degrees. Its lift-to-drag ratio 
+is                                    (round off to two decimal places). 
+  
+ 
+ 
+Q.33 The two-dimensional plane-stress state at a point is:  
+𝜎௫௫= 110 𝑀𝑃𝑎; 𝜎 ௬௬= 30 𝑀𝑃𝑎;𝜏 ௫௬= 40 𝑀𝑃𝑎.  
+The normal stress, 𝜎௡ , on a plane inclined 45o as shown in the figure is ____ MPa 
+(round off to the nearest integer). 
+ 
+  
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 25 of 42 
+ 
+ 
+Q.34 In a static test, a turbofan engine with bypass ratio  of 9 has core hot exhaust speed 
+1.5 times that of fan exhaust speed. The engine is operated at a fuel to air ratio of 
+𝑓=0.03. Both the fan and the core streams have no pressure thrust. The ratio of 
+fan thrust to thrust from the core engine is _____ (round off to one decimal place). 
+  
+ 
+Q.35 In a single stage turbine, the hot gases come out of stator/ nozzle at a speed of 500 
+m/s and at an angle of 70 degrees with the turbine axis as shown. The design 
+speed of the rotor blade is 250 m/s at the mean blade radius. The rotor blade angle, 
+𝛽, at the leading edge is ________ degrees (round off to one decimal place). 
+ 
+  
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 26 of 42 
+ 
+Q.36 – Q.65 Carry TWO marks Each 
+ 
+Q.36 The height of a right circular cone of maximum volume that can be enclosed 
+within a hollow sphere of radius 𝑅 is 
+(A) 𝑅 
+(B) 5
+4𝑅 
+(C) 4
+3𝑅 
+(D) 3
+2𝑅 
+ 
+Q.37 Consider the differential equation  d2௬
+d௫మ−2d௬
+d௫+𝑦=0.  
+The boundary conditions are 𝑦= 0 and ௗ௬
+ௗ௫= 1 at 𝑥= 0.  
+Then the value of 𝑦 at 𝑥=1/2 is 
+(A) 0 
+(B) √𝑒 
+(C) √𝑒
+2 
+(D) ට𝑒
+2 
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 27 of 42 
+ 
+ 
+Q.38 Consider the partial differential equation பమ௙
+ப௫మ+பమ௙
+ப௬మ=0 where 𝑥,𝑦 are real.  
+If 𝑓(𝑥,𝑦)=𝑎(𝑥)𝑏(𝑦), where 𝑎(𝑥) and 𝑏(𝑦) are real functions, which one of the 
+following statements can be true? 
+(A) 𝑎(𝑥) is a periodic function and 𝑏(𝑦) is a linear function 
+(B) both 𝑎(𝑥) and 𝑏(𝑦) are exponential functions 
+(C) 𝑎(𝑥) is a periodic function and 𝑏(𝑦) is an exponential function 
+(D) both 𝑎(𝑥) and 𝑏(𝑦) are periodic functions 
+  
+ 
+ 
+Q.39 A cylindrical object of diameter 900 mm is designed to move axially in air at      
+60 m/s. Its drag is estimated on a geometrically half-scaled model in water, 
+assuming flow similarity.  
+Coefficients of dynamic viscosity and densities for air and water are 
+1.86×10ିହ Pa-s, 1.2 kg/m3 and 1.01×10ିଷ Pa-s, 1000 kg/m3 respectively.  
+Drag measured for the model is 2280 N. Drag experienced by the full-scale object 
+is ____ N (rounded off to the nearest integer). 
+(A) 322 
+(B) 644 
+(C) 1288 
+(D) 2576 
+ GATE 2022 Aerospace Engineering (AE)  
+Page 28 of 42 
+ 
+Q.40 Consider a conventional subsonic fixed-wing airplane. 𝑒 is the Oswald efficiency 
+factor and 𝐴𝑅 is the aspect ratio. Corresponding to the minimum ൬஼ವ
+஼ಽయ మ⁄൰, which of 
+the following relations is true?  
+(A) 𝐶஽
+𝐶௅ଶ=1
+𝜋𝑒𝐴𝑅 
+(B) 𝐶஽
+𝐶௅ଶ=4
+3𝜋𝑒𝐴𝑅 
+(C) 𝐶஽
+𝐶௅=1
+𝜋𝑒𝐴𝑅 
+(D) 𝐶஽
+ඥ𝐶௅=1
+√𝜋𝑒𝐴𝑅 
+  
+ 
+
+ 
+Q.41 A horizontal load 𝐹 is applied at point R on a two-member truss, as shown in the 
+figure. Both the members are prismatic with cross-sectional area, 𝐴଴, and made of 
+the same material with Young’s modulus 𝐸.  
+The horizontal displacement of point R is: 
+ 
+(A) 0 
+(B) 𝐹𝑙
+(C) √2𝐹𝑙
+(D) 2𝐹𝑙
+  
+ 
+ 
+  
+GATE 2022 Aerospace Engineering (AE)  
+Page 30 of 42 
+ 
+Q.42 Which of the following is NOT always true for a combustion process taking place 
+in a closed system? 
+(A) Total number of atoms is conserved 
+(B) Total number of molecules is conserved  
+(C) Total number of atoms of each element is conserved 
+(D) Total mass is conserved  
+  
+ 
+ 
+Q.43 The real function 𝑦=sinଶ(|𝑥|) is 
+(A) continuous for all 𝑥 
+(B) differentiable for all 𝑥 
+(C) not continuous at 𝑥 = 0 
+(D) not differentiable at 𝑥 = 0 
+  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 31 of 42 
+ 
+ 
+Q.44 A convergent nozzle fed from a constant pressure, constant temperature reservoir, 
+is discharging air to atmosphere at 1 bar (absolute) with choked flow at the exit 
+(marked as 𝑄).  
+Flow through the nozzle can be assumed to be isentropic.  
+If the exit area of the nozzle is increased while all the reservoir parameters and 
+ambient conditions remain the same, then at steady state 
+ 
+(A) the nozzle will remain choked 
+(B) the nozzle will be un-choked 
+(C) the Mach number at section P will increase 
+(D) the Mach number at section P will decrease 
+  
+  GATE 2022 Aerospace Engineering (AE)  
+Page 32 of 42 
+ 
+Q.45 For a conventional airplane in straight, level, constant velocity flight condition, 
+which of the following condition(s) is/are possible on Euler angles ( 𝜙,𝜃,𝜓), angle 
+of attack ( 𝛼) and the sideslip angle ( 𝛽)? 
+(A) 𝜙=0௢,𝜃=2௢,𝜓=0௢,𝛼=2௢,𝛽=0௢ 
+(B) 𝜙=5௢,𝜃=0௢,𝜓=0௢,𝛼=2௢,𝛽=0௢ 
+(C) 𝜙=0௢,𝜃=3௢,𝜓=0௢,𝛼=3௢,𝛽=5௢ 
+(D) 𝜙=0௢,𝜃=5௢,𝜓=0௢,𝛼=2௢,𝛽=5௢ 
+  
+ 
+Q.46 Consider a high Earth-orbiting satellite of angular momentum per unit mass ℎሬ⃗ and 
+eccentricity 𝑒.  
+The mass of the Earth is 𝑀 and 𝐺 is the universal gravitational constant.  
+The distance between the satellite’s center of mass and the Earth’s center of mass 
+is 𝑟,  the true anomaly is 𝜃, and the phase angle is zero.   
+Which of the following statements is/are true?  
+(A) The trajectory equation is 𝑟=𝑟(𝜃)=ห௛ሬሬ⃗ห
+ீெ(ଵା௘௖௢௦ఏ) 
+(B) The trajectory equation is 𝑟=𝑟(𝜃)=ห௛ሬሬ⃗หమ
+ீெ(ଵା௘௖௢௦ఏ) 
+(C) ℎሬ⃗ is conserved 
+(D) The sum of potential energy and kinetic energy of the satellite is conserved  
+ 
+  GATE 2022 Aerospace Engineering (AE)  
+Page 33 of 42 
+ 
+ 
+Q.47 A rocket operates at an absolute chamber pressure of 20 bar to produce thrust, 𝐹ଵ.  
+The hot exhaust is optimally expanded to 1 bar (absolute pressure) using a 
+convergent-divergent nozzle with exit to throat area ratio ቀ஺೐
+஺೟ቁ of 3.5 and thrust 
+coefficient, 𝐶ி,ଵ=1.42.  
+The same rocket when operated at an absolute chamber pressure of 50 bar 
+produces thrust 𝐹ଶ and the thrust coefficient is 𝐶ி,ଶ.  
+Which of the following statement(s) is/are correct? 
+(A) 𝐹ଶ
+𝐹ଵ=2.5 
+(B) 𝐹ଶ
+𝐹ଵ>2.5 
+(C) 𝐶ி,ଶ
+𝐶ி,ଵ=1 
+(D) 𝐶ி,ଶ
+𝐶ி,ଵ>1 
+  
+ 
+Q.48 𝑣⃗=𝑥ଷ𝚤̂+𝑦ଷ𝚥̂+𝑧ଷ𝑘෠ is a vector field where 𝚤̂,𝚥̂,𝑘෠ are the base vectors of a 
+cartesian coordinate system.  
+Using the Gauss divergence theorem, the value of the outward flux of the vector 
+field over the surface of a sphere of unit radius centered at the origin is________ 
+(rounded off to one decimal place).  
+ 
+  

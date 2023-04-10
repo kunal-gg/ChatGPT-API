@@ -1,1 +1,103 @@
-{"Questions": ["9.Which of the following energy is converted into electricity in a Hydo power planta) Nuclear energy b) Potential Energy of waterc)Thermal Energy d) all of the above10.Which of the following is a unit of Power.a) Joules b) Wattc) Meter d) kilogram"]}
+{
+    "Questions": [
+        {
+            "question": " Q.10 Equal sized circular regions are shaded in a square sheet of paper of 1 cm side length.  Two cases, case M and case N, are considered as shown in the figures below.  In the case M, four circles are shaded in the square sheet and in the case N, nine circles are shaded in the square sheet as shown. What is the ratio of the areas of unshaded regions of case M to that of case N?   case M                         case N (A) 2 : 3 (B) 1 : 1 (C) 3 : 2 (D) 2 : 1(D) 2 : 1"
+        },
+        {
+            "question": " Q.11 The equation of the straight line representing the tangent to the curve \ud835\udc66=\ud835\udc65\u0b36 at the point (1,1) is (A) \ud835\udc66=2\ud835\udc65\u22122 (B) \ud835\udc65=2\ud835\udc66\u22121 (C) \ud835\udc66\u22121=2(\ud835\udc65\u22121) (D) \ud835\udc65\u22121=2(\ud835\udc66\u22121)(D) \ud835\udc65\u22121=2(\ud835\udc66\u22121)"
+        },
+        {
+            "question": " Q.12 Let  \ud835\udea4\u0302,\ud835\udea5\u0302, and \ud835\udc58\u0de0 be the unit vectors in the x, y and z directions, respectively. If the vector \ud835\udea4\u0302+\ud835\udea5\u0302 is rotated about positive \ud835\udc58\u0de0 by 135o, one gets (A) \u2212\ud835\udea4\u0302 (B) \u2212\ud835\udea5\u0302 (C) \u22121 \u221a2\ud835\udea5\u0302 (D) \u2212\u221a2\ud835\udea4\u0302(D) \u2212\u221a2\ud835\udea4\u0302"
+        },
+        {
+            "question": " Q.13 Let \ud835\udc65 be a real number and \ud835\udc56=\u221a\u22121. Then the real part of cos(\ud835\udc56\ud835\udc65) is (A) sinh\ud835\udc65 (B) cosh\ud835\udc65 (C) cos\ud835\udc65 (D) sin\ud835\udc65(D) sin\ud835\udc65"
+        },
+        {
+            "question": " Q.14 The point of maximum entropy on a Fanno-curve in a Temperature-Entropy (T-s) diagram represents the (A) maximum flow Mach number (B) minimum flow Mach number (C) sonic Mach number (D) normal shock in the flow(D) normal shock in the flow"
+        },
+        {
+            "question": " Q.15 Consider a two-dimensional potential flow over a cylinder. If the freestream speed is \ud835\udc48\u0bb6, the maximum speed on the cylinder surface is (A) \ud835\udc48\u0bb6 2 (B) 3\ud835\udc48\u0bb6 2 (C) 2\ud835\udc48\u0bb6 (D) 4\ud835\udc48\u0bb6(D) 4\ud835\udc48\u0bb6"
+        },
+        {
+            "question": " Q.16 Consider steady, two-dimensional, incompressible flow over a non-porous flat plate as shown in the figure. For the control volume PQRS, the speed, \ud835\udc62\u0bb6, at section PQ is uniform and the speed at section RS is given by \ud835\udc62(\ud835\udc66)=\ud835\udc34\u0b34\u1240\u0bec \u0bdb\u1241\u0be1 , where \ud835\udc5b is a positive integer. The value of \ud835\udc34\u0b34 for which the flow through section PS will vanish  is: u\uf0a50( )nyu y Ah\uf0e6 \uf0f6\uf03d\uf0e7 \uf0f7\uf0e8 \uf0f8h  (A) \ud835\udc62\u0bb6 \ud835\udc5b+1 (B) \ud835\udc62\u0bb6(\ud835\udc5b+1) (C) \ud835\udc62\u0bb6 \ud835\udc5b\u22121 (D) \ud835\udc62\u0bb6(\ud835\udc5b\u22121)(D) \ud835\udc62\u0bb6(\ud835\udc5b\u22121)"
+        },
+        {
+            "question": " Q.17 Consider the velocity distribution, \ud835\udc62(\ud835\udc66) shown in the figure. For two adjacent fluid layers L1 and L2, the viscous force exerted by L1 on L2 is  (A) to the right (B) to the left (C) vertically upwards (D) vertically downwards(D) vertically downwards"
+        },
+        {
+            "question": " Q.18 The service ceiling of an airplane is the altitude (A) at which maximum rate of climb is 100 m/min (B) beyond which theoretically the airplane cannot sustain level flight (C) at which maximum power is required for flight (D) at which maximum rate of climb is 100 ft/min(D) at which maximum rate of climb is 100 ft/min"
+        },
+        {
+            "question": " Q.19 Regarding the horizontal tail of a conventional airplane, which one of the following statements is true? (A) It contributes to \ud835\udc36\u0be0\u0d00<0 (B) It makes \ud835\udc36\u0be0\u0d00=0 (C) It makes \ud835\udc36\u0be0\u0d00>0 (D) It makes \ud835\udc36\u0be0\u0b34>0 and \ud835\udc36\u0be0\u0d00>0(D) It makes \ud835\udc36\u0be0\u0b34>0 and \ud835\udc36\u0be0\u0d00>0"
+        },
+        {
+            "question": " Q.20 A beam with a symmetrical T-shaped cross-section, as shown in the figure, is subjected to pure bending. The maximum magnitude of the normal stress is realised:  (A) only at the top fibres of the cross-section (B) only at the bottom fibres of the cross-section (C) both at the top and bottom fibres of the cross-section (D) only at the centroidal fibres of the cross-section(D) only at the centroidal fibres of the cross-section"
+        },
+        {
+            "question": " Q.21 A three-member truss is simply supported at Q and R, and loaded at P by a horizontal force \ud835\udc39 as shown. The force in QR is  (A) 0 (B) \ud835\udc39 (tensile) (C)  \u0bbf \u221a\u0b36   (compressive) (D) \u221a2\ud835\udc39  (tensile)(D) \u221a2\ud835\udc39  (tensile)"
+        },
+        {
+            "question": " Q.22 The closed thin-walled  rectangular channel shown in figure (i) is opened by introducing a sharp cut at the center of the bottom edge, as shown in figure (ii). Which one of the following statements is correct?  (A) Centroids of (i) and (ii) coincide while shear centers do not (B) Shear centers of (i) and (ii) coincide while centroids do not (C) Both centroids and shear centers of (i) and (ii) coincide (D) Neither centroids nor shear centers of (i) and (ii) coincide(D) Neither centroids nor shear centers of (i) and (ii) coincide"
+        },
+        {
+            "question": " Q.23 The region of highest static temperature  in a rocket engine and the region of highest heat flux  are ____________, respectively. (A) nozzle throat and nozzle entry (B) combustion chamber and nozzle throat (C) nozzle exit and nozzle throat (D) nozzle throat and combustion chamber(D) nozzle throat and combustion chamber"
+        },
+        {
+            "question": " Q.24 If \ud835\udc4e\u0ddc,\ud835\udc4f\u0de0,\ud835\udc50\u0302  are three mutually perpendicular unit vectors, then \ud835\udc4e\u0ddc\u22c5\u0d6b \ud835\udc4f\u0de0\u00d7\ud835\udc50\u0302\u0d6f can take the value(s) (A) 0 (B) 1 (C) -1 (D) \u221e(D) \u221e"
+        },
+        {
+            "question": " Q.25 Across an oblique shock wave in a calorifically perfect gas, (A) the stagnation enthalpy changes (B) the stagnation entropy changes (C) the stagnation temperature changes (D) the speed of sound changes(D) the speed of sound changes"
+        },
+        {
+            "question": " Q.26 NACA 2412 airfoil has (A) 4% maximum camber with respect to chord (B) maximum camber at 40% chord (C) 12% maximum thickness to chord ratio (D) maximum camber at 20% chord(D) maximum camber at 20% chord"
+        },
+        {
+            "question": " Q.27 For International Standard Atmosphere (ISA) up to 11 km, which of the following statement(s) is/are true? (A) The hydrostatic/ aerostatic equation is used (B) The temperature lapse rate is taken as \u221210\u0b3f\u0b36 \ud835\udc3e/\ud835\udc5a (C) The sea level conditions are taken as: pressure, \ud835\udc5d\u0be6=1.01325\u00d710\u0b39\ud835\udc43\ud835\udc4e; temperature, \ud835\udc47\u0be6=300 \ud835\udc3e; density, \ud835\udf0c\u0be6=1.225 \ud835\udc58\ud835\udc54/\ud835\udc5a\u0b37 (D) Air is treated as a perfect gas(D) Air is treated as a perfect gas"
+        },
+        {
+            "question": " Q.28 Let \ud835\udf0e and \ud835\udf0f represent the normal stress and shear stress on a plane, respectively. The Mohr circle(s) that may possibly represent the state of stress at points in a beam of rectangular cross-section under pure bending  is/are: (A)  (B)  (C)  (D)(D)"
+        },
+        {
+            "question": " Q.29 An isotropic linear elastic material point under plane strain condition in the x-y plane always obeys: (A) out-of-plane normal strain, \ud835\udf16\u0bed\u0bed=0 (B) out-of-plane normal stress, \ud835\udf0e\u0bed\u0bed=0 (C) out-of-plane shear stress, \ud835\udf0f\u0beb\u0bed=0 (D) out-of-plane shear strain, \uf020\ud835\udefe\u0beb\u0bed=0(D) out-of-plane shear strain, \uf020\ud835\udefe\u0beb\u0bed=0"
+        },
+        {
+            "question": " Q.30 A high-pressure-ratio multistage axial compressor encounters an extreme loading mismatch during starting. Which of the following technique(s) can be used to alleviate this problem? (A) Blade cooling (B) Variable angle stator vanes (C) Blow-off valves (D) Multi-spool shaft(D) Multi-spool shaft"
+        },
+        {
+            "question": " Q.36 The height of a right circular cone of maximum volume that can be enclosed within a hollow sphere of radius \ud835\udc45 is (A) \ud835\udc45 (B) 5 4\ud835\udc45 (C) 4 3\ud835\udc45 (D) 3(D) 3"
+        },
+        {
+            "question": " Q.37 Consider the differential equation  d2\u0bec d\u0beb\u0c2e\u22122d\u0bec d\u0beb+\ud835\udc66=0. The boundary conditions are \ud835\udc66= 0 and \u0bd7\u0bec \u0bd7\u0beb= 1 at \ud835\udc65= 0. Then the value of \ud835\udc66 at \ud835\udc65=1/2 is (A) 0 (B) \u221a\ud835\udc52 (C) \u221a\ud835\udc52 2 (D) \u0da7\ud835\udc52(D) \u0da7\ud835\udc52"
+        },
+        {
+            "question": " Q.38 Consider the partial differential equation \u0baa\u0c2e\u0bd9 \u0baa\u0beb\u0c2e+\u0baa\u0c2e\u0bd9 \u0baa\u0bec\u0c2e=0 where \ud835\udc65,\ud835\udc66 are real. If \ud835\udc53(\ud835\udc65,\ud835\udc66)=\ud835\udc4e(\ud835\udc65)\ud835\udc4f(\ud835\udc66), where \ud835\udc4e(\ud835\udc65) and \ud835\udc4f(\ud835\udc66) are real functions, which one of the following statements can be true? (A) \ud835\udc4e(\ud835\udc65) is a periodic function and \ud835\udc4f(\ud835\udc66) is a linear function (B) both \ud835\udc4e(\ud835\udc65) and \ud835\udc4f(\ud835\udc66) are exponential functions (C) \ud835\udc4e(\ud835\udc65) is a periodic function and \ud835\udc4f(\ud835\udc66) is an exponential function (D) both \ud835\udc4e(\ud835\udc65) and \ud835\udc4f(\ud835\udc66) are periodic functions(D) both \ud835\udc4e(\ud835\udc65) and \ud835\udc4f(\ud835\udc66) are periodic functions"
+        },
+        {
+            "question": " Q.39 A cylindrical object of diameter 900 mm is designed to move axially in air at 60 m/s. Its drag is estimated on a geometrically half-scaled model in water, assuming flow similarity. Coefficients of dynamic viscosity and densities for air and water are 1.86\u00d710\u0b3f\u0b39 Pa-s, 1.2 kg/m3 and 1.01\u00d710\u0b3f\u0b37 Pa-s, 1000 kg/m3 respectively. Drag measured for the model is 2280 N. Drag experienced by the full-scale object is ____ N (rounded off to the nearest integer). (A) 322 (B) 644 (C) 1288 (D) 2576(D) 2576"
+        },
+        {
+            "question": " Q.40 Consider a conventional subsonic fixed-wing airplane. \ud835\udc52 is the Oswald efficiency factor and \ud835\udc34\ud835\udc45 is the aspect ratio. Corresponding to the minimum \u0d6c\u0bbc\u0cb5 \u0bbc\u0cbd\u0c2f \u0c2e\u2044\u0d70, which of the following relations is true? (A) \ud835\udc36\u0bbd \ud835\udc36\u0bc5\u0b36=1 \ud835\udf0b\ud835\udc52\ud835\udc34\ud835\udc45 (B) \ud835\udc36\u0bbd \ud835\udc36\u0bc5\u0b36=4 3\ud835\udf0b\ud835\udc52\ud835\udc34\ud835\udc45 (C) \ud835\udc36\u0bbd \ud835\udc36\u0bc5=1 \ud835\udf0b\ud835\udc52\ud835\udc34\ud835\udc45 (D) \ud835\udc36\u0bbd(D) \ud835\udc36\u0bbd"
+        },
+        {
+            "question": " Q.41 A horizontal load \ud835\udc39 is applied at point R on a two-member truss, as shown in the figure. Both the members are prismatic with cross-sectional area, \ud835\udc34\u0b34, and made of the same material with Young\u2019s modulus \ud835\udc38. The horizontal displacement of point R is:  (A) 0 (B) \ud835\udc39\ud835\udc59 (C) \u221a2\ud835\udc39\ud835\udc59 (D) 2\ud835\udc39\ud835\udc59(D) 2\ud835\udc39\ud835\udc59"
+        },
+        {
+            "question": " Q.42 Which of the following is NOT always true for a combustion process taking place in a closed system? (A) Total number of atoms is conserved (B) Total number of molecules is conserved (C) Total number of atoms of each element is conserved (D) Total mass is conserved(D) Total mass is conserved"
+        },
+        {
+            "question": " Q.43 The real function \ud835\udc66=sin\u0b36(|\ud835\udc65|) is (A) continuous for all \ud835\udc65 (B) differentiable for all \ud835\udc65 (C) not continuous at \ud835\udc65 = 0 (D) not differentiable at \ud835\udc65 = 0(D) not differentiable at \ud835\udc65 = 0"
+        },
+        {
+            "question": " Q.44 A convergent nozzle fed from a constant pressure, constant temperature reservoir, is discharging air to atmosphere at 1 bar (absolute) with choked flow at the exit (marked as \ud835\udc44). Flow through the nozzle can be assumed to be isentropic. If the exit area of the nozzle is increased while all the reservoir parameters and ambient conditions remain the same, then at steady state  (A) the nozzle will remain choked (B) the nozzle will be un-choked (C) the Mach number at section P will increase (D) the Mach number at section P will decrease(D) the Mach number at section P will decrease"
+        },
+        {
+            "question": " Q.45 For a conventional airplane in straight, level, constant velocity flight condition, which of the following condition(s) is/are possible on Euler angles ( \ud835\udf19,\ud835\udf03,\ud835\udf13), angle of attack ( \ud835\udefc) and the sideslip angle ( \ud835\udefd)? (A) \ud835\udf19=0\u0be2,\ud835\udf03=2\u0be2,\ud835\udf13=0\u0be2,\ud835\udefc=2\u0be2,\ud835\udefd=0\u0be2 (B) \ud835\udf19=5\u0be2,\ud835\udf03=0\u0be2,\ud835\udf13=0\u0be2,\ud835\udefc=2\u0be2,\ud835\udefd=0\u0be2 (C) \ud835\udf19=0\u0be2,\ud835\udf03=3\u0be2,\ud835\udf13=0\u0be2,\ud835\udefc=3\u0be2,\ud835\udefd=5\u0be2 (D) \ud835\udf19=0\u0be2,\ud835\udf03=5\u0be2,\ud835\udf13=0\u0be2,\ud835\udefc=2\u0be2,\ud835\udefd=5\u0be2(D) \ud835\udf19=0\u0be2,\ud835\udf03=5\u0be2,\ud835\udf13=0\u0be2,\ud835\udefc=2\u0be2,\ud835\udefd=5\u0be2"
+        },
+        {
+            "question": " Q.46 Consider a high Earth-orbiting satellite of angular momentum per unit mass \u210e\u122c\u20d7 and eccentricity \ud835\udc52. The mass of the Earth is \ud835\udc40 and \ud835\udc3a is the universal gravitational constant. The distance between the satellite\u2019s center of mass and the Earth\u2019s center of mass is \ud835\udc5f,  the true anomaly is \ud835\udf03, and the phase angle is zero. Which of the following statements is/are true? (A) The trajectory equation is \ud835\udc5f=\ud835\udc5f(\ud835\udf03)=\u0e2b\u0bdb\u122c\u122c\u20d7\u0e2b \u0bc0\u0bc6(\u0b35\u0b3e\u0bd8\u0bd6\u0be2\u0be6\u0c0f) (B) The trajectory equation is \ud835\udc5f=\ud835\udc5f(\ud835\udf03)=\u0e2b\u0bdb\u122c\u122c\u20d7\u0e2b\u0c2e \u0bc0\u0bc6(\u0b35\u0b3e\u0bd8\u0bd6\u0be2\u0be6\u0c0f) (C) \u210e\u122c\u20d7 is conserved (D) The sum of potential energy and kinetic energy of the satellite is conserved(D) The sum of potential energy and kinetic energy of the satellite is conserved"
+        },
+        {
+            "question": " Q.47 A rocket operates at an absolute chamber pressure of 20 bar to produce thrust, \ud835\udc39\u0b35. The hot exhaust is optimally expanded to 1 bar (absolute pressure) using a convergent-divergent nozzle with exit to throat area ratio \u1240\u0bba\u0cd0 \u0bba\u0cdf\u1241 of 3.5 and thrust coefficient, \ud835\udc36\u0bbf,\u0b35=1.42. The same rocket when operated at an absolute chamber pressure of 50 bar produces thrust \ud835\udc39\u0b36 and the thrust coefficient is \ud835\udc36\u0bbf,\u0b36. Which of the following statement(s) is/are correct? (A) \ud835\udc39\u0b36 \ud835\udc39\u0b35=2.5 (B) \ud835\udc39\u0b36 \ud835\udc39\u0b35>2.5 (C) \ud835\udc36\u0bbf,\u0b36 \ud835\udc36\u0bbf,\u0b35=1 (D) \ud835\udc36\u0bbf,\u0b36(D) \ud835\udc36\u0bbf,\u0b36"
+        }
+    ]
+}

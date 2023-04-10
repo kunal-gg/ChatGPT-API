@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # the api key
-api_key = os.getenv("API_KEY")
+api_key = "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"
 
 workbook = openpyxl.Workbook();
 worksheet = workbook.active;
