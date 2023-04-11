@@ -30,11 +30,21 @@ questionsJson= {}
 questionsJson["Questions"] = []
 
 for question in questions:
-    questionsJson["Questions"].append({
+    try:
+        question.encode('ascii')
+    except UnicodeEncodeError:
+        continue
+    else:
+         questionsJson["Questions"].append({
         "question": question
     })
 
+print(questionsJson)
+
+
 with open('questions.json', 'w') as file:
     json.dump(questionsJson, file, indent=4)
+
+
 
 
