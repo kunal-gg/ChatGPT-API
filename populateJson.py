@@ -1,7 +1,6 @@
 import json
 
 newLine = False
-index = 0
 
 questions = []
 
@@ -25,7 +24,6 @@ with open('./text-files/example.txt', 'r', encoding="utf-8") as file:
             question = ""        
 
 
-
 questionsJson= {}
 questionsJson["Questions"] = []
 
@@ -39,12 +37,6 @@ for question in questions:
         "question": question
     })
 
-print(questionsJson)
-
 
 with open('questions.json', 'w') as file:
     json.dump(questionsJson, file, indent=4)
-
-
-
-

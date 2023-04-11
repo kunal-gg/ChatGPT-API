@@ -52,4 +52,3 @@ for row in result:
     worksheet.append(row)
 
 workbook.save("result.xlsx")
-
